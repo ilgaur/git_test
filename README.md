@@ -1,1 +1,3 @@
 # git_test
+FIRST GITHUB REPO
+HELLO ODIN!!!
